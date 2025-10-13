@@ -36,9 +36,11 @@
 
 ---
 
-### 🚀 Current Project
-**CMPUT 301 – Mobile App Development**  
-Building a full-stack Android app using **Java** and **Firebase**.
+### 💻 Current Project – CMPUT 301 🎟️
+**Event Lottery System App**  
+An Android app for fair event registration using a **lottery-based system**.  
+Built with **Firebase**, **QR code scanning**, and **multi-user roles** for entrants, organizers, and admins.
+
 
 ---
 
