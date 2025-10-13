@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">passionate Computing Science student at the University of Alberta with strong problem-solving skills and experience in software development</h3>
+<h1 align="center">Hi 👋, I'm Omar Abbasi</h1>
+<h3 align="center">A passionate Computing Science student at the University of Alberta with strong problem-solving skills and experience in software development</h3>
 
 - 📫 How to reach me **oabbasi@ualberta.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omar abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar abbasi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omar-abbasi-69485a345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-abbasi-69485a345" height="30" width="40" /></a>
 <a href="https://instagram.com/_.oma.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.oma.r" height="30" width="40" /></a>
 </p>
 
