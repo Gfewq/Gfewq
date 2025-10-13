@@ -44,14 +44,6 @@ Built with **Firebase**, **QR code scanning**, and **multi-user roles** for entr
 
 ---
 
-### 📚 Learning
-- React.js  
-- TypeScript  
-- Software architecture patterns  
-- Mobile backend integration  
-
----
-
 ### 📅 Hobbies
 - 💻 Solving programming problems (UVa, Codeforces, LeetCode)  
 - 📺 Watching movies & TV shows  
