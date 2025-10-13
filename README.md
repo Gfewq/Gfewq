@@ -47,5 +47,5 @@ Built with **Firebase**, **QR code scanning**, and **multi-user roles** for entr
 ### 📅 Hobbies
 - 💻 Solving programming problems (UVa, Codeforces, LeetCode)  
 - 📺 Watching movies & TV shows  
-- 🎮 Playing video games  
+- ⚽ Playing football 
 
