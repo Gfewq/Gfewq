@@ -25,30 +25,21 @@
 ---
 
 ### 💻 Academic Projects
+- **Event Lottery System App**  
+  Collaborated in a team of six to build an Android application (Java, Firebase) for fair event registration, improving accessibility for high-demand programs. Engineered core logic for waiting-list pooling, random sampling, and automatic re-draws on declines or cancellations. Integrated Firebase for persistent storage and real-time updates across user roles and implemented Google Maps API for real-time location tracking.
+  
 - **3D Renderer in C**  
-  Custom ray tracer with lighting, shading, and performance optimization.
+  Developed a 3D renderer from scratch in C that generates realistic images of spheres in 3D space, achieving over 90% shading accuracy across evaluated test scenes. Implemented complex algorithms for ray-object intersection, shading, and color computation, utilizing dynamic memory allocation and low-level file I/O for efficient scene processing. Optimized the rendering pipeline to reduce computation overhead while preserving realistic lighting and reflection effects.
   
 - **A\* Pathfinding in RISC-V Assembly**  
-  Visualized shortest-path exploration using GLIR; optimized data flow for speed.
+  Implemented the A* search algorithm in RISC-V assembly using the Manhattan distance heuristic to efficiently compute optimal paths. Visualized path exploration and final routes in real-time using the GLIR library to render algorithm behavior directly in the terminal. Optimized low-level data structures and control flow to improve execution efficiency and responsiveness in constrained environments.
   
-- **Perceptron-Based Branch Predictor Simulator**  
-  Designed a dynamic branch predictor with on-the-fly training and accuracy tracking.
-  
-- **Event Lottery System App**  
-  An Android app for fair event registration using a lottery-based system.
-
 ---
 
-### 💻 Current Project – CMPUT 301 🎟️
-**Event Lottery System App**  
-An Android app for fair event registration using a **lottery-based system**.  
-Built with **Firebase**, **QR code scanning**, and **multi-user roles** for entrants, organizers, and admins.
+### 💻 Current Project – CMPUT 404
+**Distributed Social Network | Python, Django, REST API**  
+Collaborated in a team of six to build a decentralized social networking platform using Python and Django that enables peer-to-peer content sharing across independent server nodes. Engineered the core logic for node-to-node federation, implementing an "Inbox" model to synchronize posts, comments, and likes between remote servers in real-time. Integrated PostgreSQL for robust relationship management and developed a RESTful API with HTTP Basic Auth to secure cross-server communication and data exchange.
 
 
 ---
-
-### 📅 Hobbies
-- 💻 Solving programming problems (UVa, Codeforces, LeetCode)  
-- 📺 Watching movies & TV shows  
-- ⚽ Playing football 
 
