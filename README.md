@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Omar Abbasi](https://gfewq.github.io/portfolio-website/)
+<h1 align="center">Hi 👋, I'm <a href="https://gfewq.github.io/portfolio-website/">Omar Abbasi</a></h1>
 <h3 align="center">A passionate Computing Science student at the University of Alberta with strong problem-solving skills and experience in software development</h3>
 
 - 📫 How to reach me **oabbasi@ualberta.ca**
