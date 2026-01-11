@@ -15,24 +15,27 @@
 ---
 
 ## 💬 Ask me about
-- 🐍 Backend Development (Python, C, SQL)
-- ⚙️ Low-level Programming (RISC-V Assembly)
-- 🤖 Machine Learning & AI (Supervised, Unsupervised, Reinforcement Learning)
-- 📊 Data Analytics (NumPy, Pandas, Matplotlib, SPSS)
-- 🧩 Software Design & Architecture
-- 🧠 Algorithms & Problem Solving
+-  Backend Development (Python, C, SQL)
+-  Low-level Programming (RISC-V Assembly)
+-  Machine Learning & AI (Supervised, Unsupervised, Reinforcement Learning)
+-  Data Analytics (NumPy, Pandas, Matplotlib, SPSS)
+-  Software Design & Architecture
+-  Algorithms & Problem Solving
 
 ---
 
 ### 💻 Academic Projects
-- **🟢 3D Renderer in C**  
+- ** 3D Renderer in C**  
   Custom ray tracer with lighting, shading, and performance optimization.
   
-- **🟢 A\* Pathfinding in RISC-V Assembly**  
+- ** A\* Pathfinding in RISC-V Assembly**  
   Visualized shortest-path exploration using GLIR; optimized data flow for speed.
   
-- **🟢 Perceptron-Based Branch Predictor Simulator**  
+- ** Perceptron-Based Branch Predictor Simulator**  
   Designed a dynamic branch predictor with on-the-fly training and accuracy tracking.
+  
+- ** Event Lottery System App**  
+  An Android app for fair event registration using a lottery-based system.
 
 ---
 
